@@ -1,7 +1,7 @@
 # Analysis-of-data-complexity-measures-for-classification-matlab
  
 Get the code from here: 
-https://gum.co/Tsmyn 
+https://gum.co/hCaN
  
 Watch code from here: 
 https://www.youtube.com/watch?v=5e3qAPmDpEU
@@ -13,7 +13,7 @@ Cano, J. (2013). Analysis of data complexity measures for classification. Expert
 
 Contact me: 
 email: s-ahmed.saleh@zewailcity.edu.eg 
-List of all my codes: https://gumroad.com/ahmed_s
+List of all my codes: https://gumroad.com/ahmedsaleh
  
 Hire me directly on freelancer: 
 https://www.freelancer.com/u/AhmedSobhiSaleh 
